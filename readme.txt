@@ -7,3 +7,5 @@ Git tracks changes of files.
 222
 
 Creating a new branch is quick.
+
+dev add merge
